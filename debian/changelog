@@ -1,5 +1,31 @@
-template-repository (1.0-1) unstable; urgency=medium
+ocaml-fmt (0.9.0-2) unstable; urgency=medium
 
-  * Initial release
+  * Build with cmdliner
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Stéphane Glondu <glondu@debian.org>  Tue, 30 Nov 2021 09:09:46 +0100
+
+ocaml-fmt (0.9.0-1) unstable; urgency=medium
+
+  * New upstream release
+  * Bump Standards-Version to 4.6.0
+  * Bump debian/watch format to 4
+
+ -- Stéphane Glondu <glondu@debian.org>  Sun, 28 Nov 2021 10:07:59 +0100
+
+ocaml-fmt (0.8.9-1) unstable; urgency=medium
+
+  [ Stéphane Glondu ]
+  * New upstream release
+  * Bump debhelper compat level to 13
+
+  [ Debian Janitor ]
+  * Use secure URI in Homepage field.
+  * Update standards version to 4.5.0, no changes needed.
+
+ -- Stéphane Glondu <glondu@debian.org>  Sun, 08 Nov 2020 04:46:44 +0100
+
+ocaml-fmt (0.8.8-1) unstable; urgency=medium
+
+  * Initial release (Closes: #948868)
+
+ -- Stéphane Glondu <glondu@debian.org>  Wed, 15 Jan 2020 10:01:39 +0100

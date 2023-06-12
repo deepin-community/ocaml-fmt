@@ -1,0 +1,7 @@
+@OCamlStdlibDir@/fmt/META
+@OCamlStdlibDir@/fmt/fmt.cma
+OPT: @OCamlStdlibDir@/fmt/fmt.cmxs
+@OCamlStdlibDir@/fmt/fmt_tty.cma
+OPT: @OCamlStdlibDir@/fmt/fmt_tty.cmxs
+@OCamlStdlibDir@/fmt/fmt_cli.cma
+OPT: @OCamlStdlibDir@/fmt/fmt_cli.cmxs
