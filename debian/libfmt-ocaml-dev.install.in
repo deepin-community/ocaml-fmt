@@ -1,0 +1,8 @@
+@OCamlStdlibDir@/fmt/opam
+@OCamlStdlibDir@/fmt/*.ml*
+@OCamlStdlibDir@/fmt/*.cmi
+@OCamlStdlibDir@/fmt/*.cmt*
+OPT: @OCamlStdlibDir@/fmt/*.cmx
+OPT: @OCamlStdlibDir@/fmt/*.cmxa
+OPT: @OCamlStdlibDir@/fmt/*.a
+@OCamlStdlibDir@/fmt/fmt_top.*
